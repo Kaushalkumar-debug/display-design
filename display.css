@@ -1,0 +1,64 @@
+*{
+    box-sizing: border-box;
+}
+div{
+    border:solid 1px red;
+    height:80px;
+}
+.row{
+    border: solid 1px;
+    height:80px;
+    font-size: 0px;
+}
+.col{
+    border:solid 1px black;
+    display: inline-block;
+    height:100%;
+    width:33.33%;
+}
+.col1{
+    border: solid 1px black;
+    display: inline-block;
+    height:100%;
+    width:50%;
+}
+.row1{
+    border: solid 1px black;
+    height: 50%;
+}
+.col2{
+    border: solid 1px black;
+    display: inline-block;
+    height: 100%;
+    width: 30%;
+}
+.row2{
+    border: solid 1px black;
+    height:50%;
+}
+.col3{
+    border: solid 1px black;
+    display: inline-block;
+    height: 100%;
+    width: 15%;
+}
+.col4{
+    border: solid 1px black;
+    display: inline-block;
+    height: 100%;
+    width: 40%;
+}
+.row3{
+    border: solid 1px black;
+    height:33.33%;
+}
+.col5{
+    border: solid 1px black;
+    display: inline-block;
+    height: 100%;
+    width: 50%; 
+}
+.row4{
+    border: solid 1px black;
+    height:50%;
+}
